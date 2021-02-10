@@ -1,1 +1,1 @@
-# GradeCTechnicalTest
+# TechnicalTest
